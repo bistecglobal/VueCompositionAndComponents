@@ -1,4 +1,4 @@
-# VueCompositionAndComponents
+# Vue Composition And Components
 Vue Composition API and Components using Nuxt JS
 
 
